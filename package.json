@@ -1,0 +1,14 @@
+{
+  "name": "wme_event-exporter",
+  "version": "2024.10.13.001",
+  "description": "This is script is used to export road closures attached to WME Events, allowing for easier reuse later.",
+  "main": "WME-EVent-Exporter.user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
